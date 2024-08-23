@@ -4,7 +4,7 @@ RabbitMQ is running on port 15672, with the username and password set to **_gues
 MongoDB is configured on port **27017**, with the username **_admin_** and password **_123_**.<br>
 Run the project using a Java IDE (such as IntelliJ IDEA) and verify the endpoints using an HTTP client(such as Postman or Bruno).<br>
 
-Technologies:
+**Technologies**:
 <ul>
 <li>
   Java 21
