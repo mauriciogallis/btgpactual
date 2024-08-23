@@ -7,7 +7,7 @@ services:
       - MONGO_INITDB_ROOT_USERNAME=admin
       - MONGO_INITDB_ROOT_PASSWORD=123
 
-  rabbimq:
+  rabbitmq:
     image: rabbitmq:3.13-management
     ports:
       - 15672:15672
